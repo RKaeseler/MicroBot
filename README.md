@@ -11,3 +11,9 @@ It is planned to integrate the two parts, to allow the positions from the Python
  - Validate the FK model of the python script to the real robot. This include adjusting the length of the robot links.
 
   
+## Python
+To run the python simulation, open a terminal in the python folder. Then run "python GUI_Robot.py". 
+Prereq: 
+  - Python (3.12.3) 
+  - Numpy (2.4.2) 
+  - Matplotlib (3.10.8) 
